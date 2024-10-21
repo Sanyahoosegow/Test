@@ -1,0 +1,16 @@
+C:\Users\stud\Documents\Мельников Александр проекты\Треугольник\bin\Debug\Треугольник.exe.config
+C:\Users\stud\Documents\Мельников Александр проекты\Треугольник\bin\Debug\Треугольник.exe
+C:\Users\stud\Documents\Мельников Александр проекты\Треугольник\bin\Debug\Треугольник.pdb
+C:\Users\stud\Documents\Мельников Александр проекты\Треугольник\obj\Debug\Треугольник.csproj.AssemblyReference.cache
+C:\Users\stud\Documents\Мельников Александр проекты\Треугольник\obj\Debug\Треугольник.csproj.SuggestedBindingRedirects.cache
+C:\Users\stud\Documents\Мельников Александр проекты\Треугольник\obj\Debug\MainWindow.g.cs
+C:\Users\stud\Documents\Мельников Александр проекты\Треугольник\obj\Debug\App.g.cs
+C:\Users\stud\Documents\Мельников Александр проекты\Треугольник\obj\Debug\Треугольник_MarkupCompile.cache
+C:\Users\stud\Documents\Мельников Александр проекты\Треугольник\obj\Debug\Треугольник_MarkupCompile.lref
+C:\Users\stud\Documents\Мельников Александр проекты\Треугольник\obj\Debug\MainWindow.baml
+C:\Users\stud\Documents\Мельников Александр проекты\Треугольник\obj\Debug\Треугольник.g.resources
+C:\Users\stud\Documents\Мельников Александр проекты\Треугольник\obj\Debug\Треугольник.Properties.Resources.resources
+C:\Users\stud\Documents\Мельников Александр проекты\Треугольник\obj\Debug\Треугольник.csproj.GenerateResource.cache
+C:\Users\stud\Documents\Мельников Александр проекты\Треугольник\obj\Debug\Треугольник.csproj.CoreCompileInputs.cache
+C:\Users\stud\Documents\Мельников Александр проекты\Треугольник\obj\Debug\Треугольник.exe
+C:\Users\stud\Documents\Мельников Александр проекты\Треугольник\obj\Debug\Треугольник.pdb

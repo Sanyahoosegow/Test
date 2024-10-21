@@ -1,0 +1,21 @@
+﻿<Window x:Class="Треугольник.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Треугольник"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="600" Background="Aquamarine">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0" Margin="97,39,97,39" Content="Введите длины сторон треугольника" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="20"/>
+        <TextBox x:Name="_1сторона" Grid.Row="1" Margin="10,57,416,76" FontSize="20" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <TextBox x:Name="_2сторона" Grid.Row="1" Margin="213,57,213,76" FontSize="20" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <TextBox x:Name="_3сторона" Grid.Row="1" Margin="416,57,10,76" FontSize="20" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <Button Grid.Row="2" Background="Beige" Margin="152,43,152,43" Content="Проверить" FontSize="20" Click="Button_Click"/>
+    </Grid>
+</Window>
